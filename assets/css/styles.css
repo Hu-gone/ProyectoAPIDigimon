@@ -1,0 +1,17 @@
+#nombreDelDigimon{
+    background-color: grey;
+    color: black;
+    font-size: 25px;
+}
+
+#nivelDelDigimon{
+    background-color: grey;
+    color: red;
+    font-size: 25px;
+}
+
+
+#bodypagina{
+    background-color: cyan;
+    text-align: center;
+}
